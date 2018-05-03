@@ -1,0 +1,35 @@
+body {
+	background-image: url(jolene-hardy-18952-unsplash.jpg);
+	background-size: cover;
+}
+
+#home, #button, #foot {
+	width: 100%;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'lobster', cursive;
+	/*font-weight: bold;*/
+	text-transform: uppercase;
+}
+
+form {
+	position: relative;
+	top: 340px;
+	left: 602px;
+}
+
+button {
+	position: relative;
+	top: 270px;
+	left: 600px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	color: white;
+}
